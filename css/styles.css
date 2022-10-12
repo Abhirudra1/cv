@@ -1,0 +1,26 @@
+body{
+    background-color: #FFF5E4;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 7%;
+}
+h1{
+    color: #66BFBF;
+    font-family: cursive;
+    font-style: italic;
+}
+h3{
+    color: #66BFBF;
+    font-family: cursive;
+    font-style: italic;
+}
+.submit:hover{
+    background-color: aqua;
+}
+input:focus{
+    background-color: khaki;
+}
